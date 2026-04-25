@@ -205,4 +205,5 @@ def keep_alive():
 # ------------------- 실행 -------------------
 if __name__ == "__main__":
     keep_alive()
-    bot.run("MTQ4NDg0NDg5NzMyNzUxNzgwNw.GofBTJ.ldbWm3GoUx65TbiCNtaG1ELYrRI4rf9Nd21IpI")
+    access_token - os.environ["BOT TOKEN"]
+    bot.run("access token")
